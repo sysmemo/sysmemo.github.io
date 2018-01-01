@@ -19,7 +19,7 @@ $ jekyll build
 ### git 코맨드
 
 ```shell
-$ git add -A
+$ git add --all
 $ git commit -m "test"
 $ git push -u origin master
 ```
